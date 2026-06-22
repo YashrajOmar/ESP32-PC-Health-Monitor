@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+pc_collector/venv/
+*.egg-info/
+.Python
+
+# Wokwi local extension state (often has machine-specific paths)
+.wokwi/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
+# Local secrets/config if you ever add any
+.env
