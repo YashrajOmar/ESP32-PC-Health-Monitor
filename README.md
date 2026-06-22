@@ -16,6 +16,8 @@ The project demonstrates the complete flow of an embedded monitoring system — 
 
 ### End-to-End Data Flow
 
+▶️ Demo Video:
+
 https://github.com/user-attachments/assets/dc411cfc-478b-4135-8b84-745943064d0b
 
 *Python Collector → TCP Socket → ESP32 Firmware → OLED Display*
